@@ -148,9 +148,6 @@ This project is based on the research paper: "Real-Time Eye Blink Detection usin
 ##  MediaPipe Face Mesh
 Uses Google's MediaPipe framework for efficient facial landmark detection
 Tracks 468 3D facial landmarks in real-time
-# Reference: https://developers.google.com/mediapipe/solutions/vision/face_mesh
-# Authors
-Student Project - 2024
 
 # License
 This project is provided for educational purposes.
